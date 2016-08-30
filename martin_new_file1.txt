@@ -1,4 +1,6 @@
 This is a old file.
 add a new line. 
 
-add a new line. 
+add a new line.
+
+add a new line.  
